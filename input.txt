@@ -1,0 +1,3 @@
+S->ASA|B	B->aCb|bCa
+D->ACA|A
+A->a|b
